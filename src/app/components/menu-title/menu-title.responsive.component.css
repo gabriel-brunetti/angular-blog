@@ -1,0 +1,5 @@
+@media screen and(min-with:700px) {
+  .menu__title__container > h1 {
+    font-size: 50px;
+  }
+}
